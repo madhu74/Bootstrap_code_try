@@ -6,3 +6,21 @@
     font-family: FontAwesome, monospace;
     font-size: large;
 }
+
+.mainContent{
+    margin: 3px;
+    min-height: 300px;
+    background: violet;
+    text-align: center;
+    font-family: FontAwesome, monospace;
+    font-size: large;
+}
+
+.subContent{
+    margin: 3px;
+    min-height: 150px;
+    background: lightpink;
+    text-align: center;
+    font-family: FontAwesome, monospace;
+    font-size: large;
+}
