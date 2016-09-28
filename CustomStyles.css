@@ -33,3 +33,12 @@
     font-family: FontAwesome, monospace;
     font-size: large;
 }
+
+.visDiv{
+    margin: 10px;
+    min-height: 50px;
+    background: cornflowerblue;
+    text-align: center;
+    font-family: FontAwesome, monospace;
+    font-size: large;
+}
